@@ -18,7 +18,7 @@ const phrases = [
 let phraseIndex = 0;
 
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Ура! До встречи 14 февраля! ❤️";
+    question.innerHTML = "Даа я так и знал ❤️";
     gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
     noBtn.style.display = "none";
 });
